@@ -1,6 +1,6 @@
 ## 🚀 IBM Data Science Capstone Project
 
-This repository contains 8 well-documented Jupyter notebooks that collectively aim to predict the successful landing of the Falcon 9 first stage booster. The data is sourced from public APIs and datasets, and the project follows a complete end-to-end Data Science workflow.
+This repository contains 8 well-documented notebooks that collectively aim to predict the successful landing of the Falcon 9 first stage booster. The data is sourced from public APIs and datasets, and the project follows a complete end-to-end Data Science workflow.
 
 ---
 
